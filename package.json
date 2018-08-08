@@ -1,6 +1,6 @@
 {
 	"name": "@shon/tiny",
-	"version": "2.2.0",
+	"version": "2.3.0",
 	"description": "Removes all spaces from a string",
 	"license": "MIT",
 	"repository": "snolangps/tiny",
