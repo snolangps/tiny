@@ -9,7 +9,7 @@ Removes all whitespace from string
 
 # Usage
 <pre>
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@shon/tiny");
 
 tiny("So much space!");
 //=> "Somuchspace!"
