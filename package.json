@@ -1,14 +1,14 @@
 {
 	"name": "@shon/tiny",
-	"version": "2.1.0",
+	"version": "2.2.0",
 	"description": "Removes all spaces from a string",
 	"license": "MIT",
 	"repository": "snolangps/tiny",
 	"main": "index.js",
 	"scripts": {
-		"minorVer":"npm version minor",
-		"majorVer":"npm version major",
-		"publish":"npm publish"
+		"minorVer": "npm version minor",
+		"majorVer": "npm version major",
+		"publish": "npm publish"
 	},
 	"keywords": [
 		"npm",
